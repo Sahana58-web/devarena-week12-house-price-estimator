@@ -4,7 +4,7 @@
 
 A real estate agency prices listings by hand, which is slow and inconsistent. This project builds and deploys a model that estimates a property's price from its area, rooms, age, location and type, and explains what drives the price.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app *(replace this with your own link after deploying)*
+**Live app:** https://house-price-estimator-sahana.streamlit.app
 
 ## Results at a glance
 | Success metric | Target | Result on 60 unseen properties |
